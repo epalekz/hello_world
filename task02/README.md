@@ -1,4 +1,4 @@
-# hello
+# zzz
 
 High level project overview - business value it brings, non-detailed technical overview.
 
@@ -7,9 +7,9 @@ All the technical details described below are actual for the particular
 version, or a range of versions of the software.
 ### Actual for versions: 1.0.0
 
-## hello diagram
+## zzz diagram
 
-![hello](pics/hello_diagram.png)
+![zzz](pics/zzz_diagram.png)
 
 ## Lambdas descriptions
 
