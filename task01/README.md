@@ -1,4 +1,4 @@
-# hello_worlds
+# hello_world
 
 High level project overview - business value it brings, non-detailed technical overview.
 
@@ -7,9 +7,9 @@ All the technical details described below are actual for the particular
 version, or a range of versions of the software.
 ### Actual for versions: 1.0.0
 
-## hello_worlds diagram
+## hello_world diagram
 
-![hello_worlds](pics/hello_worlds_diagram.png)
+![hello_world](pics/hello_world_diagram.png)
 
 ## Lambdas descriptions
 
